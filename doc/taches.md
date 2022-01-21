@@ -4,7 +4,7 @@
 
 Tâches à faire pour le 31/01/2022:
 
-* se familiariser avec les données (QGIS)
-* s'entraîner à manipuler les données (geopandas)
-* rendre une analyse des données
+- [x] se familiariser avec les données (QGIS)
+- [x] s'entraîner à manipuler les données (geopandas)
+- [ ] rendre une analyse des données
 
