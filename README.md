@@ -8,6 +8,7 @@
 
 ## Méthode proposée
 ### Subdivision bas niveau du territoire français
+* [RPG](https://geoservices.ign.fr/rpg#telechargement)
     * [RPG](https://geoservices.ign.fr/rpg#telechargement)
     * Utiliser la [base de données des communes de France](https://www.data.gouv.fr/fr/datasets/r/0e117c06-248f-45e5-8945-0e79d9136165) pour sélectionner environ 5000 communes ayant une superficie proche
     - Créer un graphe par commune grâce à la BD Corine Land Cover
