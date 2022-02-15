@@ -5,7 +5,7 @@
 * [Corine Land Cover](https://land.copernicus.eu/pan-european/corine-land-cover)
 
 ## Objectif : classification hiérarchique non-supervisée du territoire français à partir de graphes
-* Construire un graphe par commune avec sa zone Corine Land Cover -> regroupement des communes qui se ressemblent
+1. Construire un graphe par commune avec sa zone Corine Land Cover -> regroupement des communes qui se ressemblent
 
 ## Méthode proposée
 ### Subdivision bas niveau du territoire français
