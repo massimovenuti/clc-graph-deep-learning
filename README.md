@@ -4,7 +4,8 @@
 * [RPG](https://geoservices.ign.fr/rpg#telechargement)
 * [Corine Land Cover](https://land.copernicus.eu/pan-european/corine-land-cover)
 
-## Objectif : classification hiérarchique non-supervisée du territoire français
+## Objectif : classification hiérarchique non-supervisée du territoire français à partir de graphes
+Un graphe par commune avec sa zone Corine Land Cover -> regroupement des communes qui se ressemblent.
 
 ## Méthode proposée
 ### Subdivision bas niveau du territoire français
