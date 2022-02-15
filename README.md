@@ -9,7 +9,7 @@
 ## Méthode proposée
 ### Subdivision bas niveau du territoire français
     * Utiliser la [base de données des communes de France](https://www.data.gouv.fr/fr/datasets/r/0e117c06-248f-45e5-8945-0e79d9136165) pour sélectionner environ 5000 communes ayant une superficie proche
-    - Créer un graphe par commune grâce à la BD Corine Land Cover
+    * Créer un graphe par commune grâce à la BD Corine Land Cover
 
 ### Classification de graphes
     #### Réduire la dimension des graphes en utilisant des techniques de plongement de graphes (embedding) pour les classer (attribuer automatiquement un label de classe à chaque graphe pour) grâce à la détermination d'une valeur de similarité entre paire de graphes
