@@ -1,2 +1,3 @@
-data/clc/
 .idea
+.ipynb_checkpoints
+data/raw_data/
