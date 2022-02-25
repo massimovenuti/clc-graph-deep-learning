@@ -22,4 +22,8 @@
 - [x] prélever des zones urbaines (des capitales) et des zones rurales
 - [ ] tester la classification sur les zones prélevées
 - [x] vérifier la cohérence des longueurs (exemple : prendre un lac dont on connait la périphérie et vérifier si on obtient le même ordre de grandeur)
-- [ ] calculer l'attribut 1-connexe, 2-connexe, ... pour chaque surface
+
+
+## Semaine 5 (22/02/2022 - 01/03/2022)
+
+- [x] redéfinir les surfaces découpées en plusieurs parties après extraction 
