@@ -27,3 +27,11 @@
 ## Semaine 5 (22/02/2022 - 01/03/2022)
 
 - [x] redéfinir les surfaces découpées en plusieurs parties après extraction 
+- [x] faire de la bibliographie
+
+## Semaine 6 (01/03/2022 - 09/03/2022)
+
+- [x] rendre paramétrable la façon de supprimer les aires résiduelles après découpage : ajouter les attributs `proportion de la taille conservée` et `proportion de la taille totale` 
+- [ ] faire de la bibliographie
+- [x] rédiger le rapport intermédiaire
+

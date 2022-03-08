@@ -1,3 +1,4 @@
 .idea
 .ipynb_checkpoints
-data/raw_data/
+data/raw_data
+rapport/out

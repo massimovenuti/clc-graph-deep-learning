@@ -1,0 +1,24 @@
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}% pour insérer images et pdf entre autres
+\usepackage[left=2.5cm,right=2.5cm,top=2cm,bottom=2cm]{geometry} % réglages des marges du document
+\usepackage{hyperref}% rend actif les liens, références croisées, toc…
+%\usepackage{fancyhdr} % pour personnaliser les en-têtes
+\usepackage{titlesec}
+\usepackage{xspace}
+\usepackage[inline]{enumitem}
+\usepackage{blindtext, color}
+\PassOptionsToPackage{hyphens}{url}
+\usepackage[french]{babel} % pour un document en français
+
+
+% personnalisation des titres
+\titleformat{\chapter}
+  {\Huge\bfseries} % format
+  {\thechapter}                % label
+  {1em}             % sep
+  {}           % before-code
+  [\vspace{1ex}\titlerule] % after-code
+
+% profondeur de la table des matières
+\setcounter{tocdepth}{1}
