@@ -1,5 +1,4 @@
-\documentclass[12pt]{report}
-
+\documentclass[]{report}
 
 \input{packages/packages}
 
@@ -7,10 +6,12 @@
     \input{titre/titre}
     %\input{remerciements/remerciements}
     \tableofcontents{}
-    \addcontentsline{toc}{chapter}{Table des matières} 
+    \addcontentsline{toc}{chapter}{Table des matières}
+
+    \listoffigures
+    \addcontentsline{toc}{chapter}{Table des figures}
 
     \input{introduction/introduction}
-
     
     \input{chapitre1/chapitre1}
     \input{chapitre2/chapitre2}
@@ -18,5 +19,5 @@
     %\input{conclusion/conclusion}
 
     %\input{annexe/annexe}
-    %\input{bibliographie/bibliographie}
+    \input{bibliographie/bibliographie}
 \end{document}
