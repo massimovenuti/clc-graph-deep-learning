@@ -8,8 +8,11 @@
 \usepackage{xspace}
 \usepackage[inline]{enumitem}
 \usepackage{blindtext, color}
-\PassOptionsToPackage{hyphens}{url}
 \usepackage[french]{babel} % pour un document en français
+\usepackage[backend=biber]{biblatex}
+\addbibresource{references/references.bib}
+
+\PassOptionsToPackage{hyphens}{url}
 
 
 % personnalisation des titres
@@ -26,3 +29,4 @@
 % numérotation continue des figures
 \usepackage{chngcntr}
 \counterwithout{figure}{chapter}
+
