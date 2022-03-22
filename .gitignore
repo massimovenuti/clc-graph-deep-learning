@@ -1,5 +1,4 @@
+notebooks/backup.ipynb
 .idea
-.ipynb_checkpoints
 data/raw_data
 rapport/out
-notebooks/.backup.ipynb
