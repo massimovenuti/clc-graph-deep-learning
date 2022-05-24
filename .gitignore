@@ -1,6 +1,3 @@
-notebooks/backup.ipynb
+notebooks/.backup.ipynb
 .idea
 data/raw_data
-rapport/out
-result/
-data/communes/comm_17_1800/graph_data.zip
